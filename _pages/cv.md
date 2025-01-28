@@ -11,33 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biomedical Engineering, Boston University - Convergent Fellow of Neuroscience and Neuroengineering, (expected 2027)
+* B.S. in Biomedical Engineering-Bioinformatics, University of Missouri-Columbia, 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Graduate Researcher (09/2023-Present)
+  * Boston University
+  * Using state space models to study multiregional brain communication as it relates to motor control.
+  * Supervisor: Drs. Brian DePasquale and Michael Economo
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Pediatric Oncology Education Intern, Research Intern (05/2022-09/2023)
+  * St. Jude Children's Research Hospital
+  * Investigated the long term affects of thoracic radiotherapy treatment in survivors of pediatric Hodgkin Lymphoma by investigating sleep EEG
+  * Supervisor: Dr. Ranganatha Sitaram
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Undergraduate Researcher (01/2021-09/2023)
+  * University of Missouri-Columbia
+  * Worked on biofortification through the development of an artificial minichromosome based cyclical editing system in Zea mays
+  * Supervisor: Dr. James Birchler
   
 Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
+  * Sub-skill 2.2s
   * Sub-skill 2.3
 * Skill 3
 
