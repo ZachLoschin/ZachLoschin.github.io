@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Professional Website"
 title_separator          : "-"
-name                     : &name "Zachary Loschinskey"
+name                     : &name "ZFL"
 description              : &description "Biomedical Engineering PhD Candidate at Boston University"
 url                      : https://ZachLoschin.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
