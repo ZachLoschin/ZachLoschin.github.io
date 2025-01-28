@@ -12,7 +12,7 @@ main:
   #   url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/
     
   - title: "Portfolio"
     url: /portfolio/
@@ -20,8 +20,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
   # - title: "Guide"
   #   url: /markdown/
