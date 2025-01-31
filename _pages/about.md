@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Zachary Loschinskey and here are some of the things I have been thinking about...
+Hi! I am Zachary Loschinskey and I am PhD Candidate in Biomedical Engineering at Boston University. I am interested in leveraging probabilistic modeling and machine learning methods to study natural motor control. 
